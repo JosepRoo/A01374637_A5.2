@@ -1,0 +1,2 @@
+Total de ventas: $166568.23
+Tiempo total de ejecución: 0.00 segundos
